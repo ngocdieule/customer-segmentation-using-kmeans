@@ -1,7 +1,7 @@
 # Customer Segmentation Using Kmeans
 This is a learning project where I explored an e-commerce dataset and applied K-Means clustering for customer segmentation.
 
-The data that I used in this project can be found [HERE]([url](https://archive.ics.uci.edu/dataset/502/online+retail+ii)).
+The data that I used in this project: https://archive.ics.uci.edu/dataset/502/online+retail+ii.
 
 ## 1. Executive Summary
 
